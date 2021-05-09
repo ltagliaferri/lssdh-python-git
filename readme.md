@@ -1,0 +1,5 @@
+# Collaborative Text Analysis and Visualization with Python and Git
+
+This session will introduce researchers to Python as a tool for understanding text, with a focus on historical literary works. Attendees will begin by exploring cleaned up texts from a Git repository, will learn how to use Python to analyze and visualize text, and then will learn next steps for how to clean up text files from their own research and commit it to Git. Following this session, attendees will have an understanding of how to leverage Python and open source as tools for their humanististic research. Additionally, they will learn best practices on how to collaborate on a digital humanities software project. 
+
+**Prior to session**: If possible, please set up a GitHub account and download [GitHub Desktop](https://desktop.github.com).
